@@ -1,0 +1,16 @@
+da107ea600fe5c852565b75a3713fd65 *DESCRIPTION
+d5e3c9d0a4114991980bcb8665c8a5e1 *NAMESPACE
+27fa60ff91145df1a68fc2a4d34545ef *NEWS.md
+bf8dfebba997480e8b7311241a6054d0 *R/RcppExports.R
+5062c4f1683b6093931c8905556f82cd *R/package.r
+84f0ec00db41a690ceda2042f2a9846e *R/stats-postprob.r
+25f05c7994a6f1f1dfffc578e95fab0e *R/stats-predprob.r
+160967f4d1e178cbbaa2b58c69f1f66b *R/stats-stopbound-post.r
+15d6cfcb83b2170d89f01fb8e876fddf *R/stats-stopbound-pred.r
+12b50848a31e6678c1c4bffc7d0424fe *man/package-ph2bayes.Rd
+5388f8f46693b2ada4facf0c04d7d3cf *man/postprob.Rd
+61298929cdeec71e2f0554937cf77fa5 *man/predprob.Rd
+888a693c665e15362d71d77227b293d2 *man/stopbound_post.Rd
+b1c7f21fa67b7733cc2724097f65e809 *man/stopbound_pred.Rd
+111a01567979eea07e8c951c6ae42365 *src/RcppExports.cpp
+ddb1c9577b9bdab25bb699e1dc844450 *src/ph2bayes.cpp
